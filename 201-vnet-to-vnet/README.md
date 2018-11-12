@@ -9,4 +9,6 @@
 
 This template creates two VNETs in two different locations, each containing a subnet and Gateway subnet. It creates two public IPs which are used to create two VPN Gateways in the two VNETs. Finally it establishes connection between the two gateways.
 
+
+########################test changesonly###############################
 Modify parameters file to change default values.
